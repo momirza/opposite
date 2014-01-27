@@ -16,6 +16,5 @@ True
 >>> True == False
 False
 >>> ^D
-
 ```
 
