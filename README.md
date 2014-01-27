@@ -3,7 +3,7 @@ opposite
 
 Opposite library for Python
 
-2014-01-27: Full support for Python 3!
+2014-01-27: Full support for Python 2.X.
 
 Usage
 ========
@@ -18,3 +18,5 @@ False
 >>> ^D
 ```
 
+======
+Thank you for all the support, Opposite library will now ship as part of the standard library for Python 3.4.
