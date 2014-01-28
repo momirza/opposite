@@ -19,4 +19,4 @@ False
 ```
 
 ======
-Thank you for all the support, Opposite library will now ship as part of the standard library for Python 3.4.
+Thank you for all the support, Opposite will now ship as part of the standard library for Python 3.4.
