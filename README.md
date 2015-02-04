@@ -1,4 +1,4 @@
-opposite
+Opposite
 ========
 
 Opposite library for Python
