@@ -18,5 +18,6 @@ False
 >>> ^D
 ```
 
-======
+---
+
 Thank you for all the support, Opposite will now ship as part of the standard library for Python 3.4.
